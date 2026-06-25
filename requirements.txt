@@ -1,0 +1,14 @@
+chromadb
+sentence-transformers
+transformers
+torch
+numpy
+pandas
+matplotlib
+umap-learn
+scikit-learn
+huggingface-hub
+tokenizers
+safetensors
+tqdm
+python-certifi-win32
